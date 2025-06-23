@@ -20,7 +20,7 @@ Since I knew I could make password-protected blog posts where the user had to in
 -Linking to the next post you had to go to instead of relying on players to find the next post they had to enter the password in.
 -I want to have voice acting/video in the future to make it more interactive
 ## Sharing my brainstorm/Design docs (spoilers if you read them!)
-![alt text](https://github.com/misscintech/Mixed-Reality-Construction-Simulation-Capstone-Project/blob/main/paintbuckets.png)<br>
+![alt text](https://github.com/misscintech/Rise-of-the-Owl-Cold-Cases-Post-Mortem/blob/main/vicpic.png)<br>
 
 [https://drive.google.com/drive/folders/102q8NQtyZrzyigsfNJEVGeYHuxkF0nL7?usp=drive_link]  
 
